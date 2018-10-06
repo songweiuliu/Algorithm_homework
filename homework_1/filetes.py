@@ -1,6 +1,5 @@
 # coding: utf-8
-
-
+# liusongwei 21831068
 
 
 #homework
@@ -9,7 +8,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.signal as signal
-
 
 
 #Filtering processing
@@ -43,7 +41,6 @@ def show(data_,data_1,start_):
 
 
 if __name__=='__main__':
-
 
 
     path=r'.\incX_1.csv'
